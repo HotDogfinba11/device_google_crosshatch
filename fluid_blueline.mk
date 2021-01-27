@@ -46,7 +46,7 @@ TARGET_INCLUDE_GAPPS := true
 PRODUCT_PRODUCT_PROPERTIES += \
   ro.fluid.maintainer=Olly \
   ro.fluid.cpu=SDM845 \
-  ro.product.system.model=blueline
+  ro.product.system.model=Pixel 3
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="blueline" \

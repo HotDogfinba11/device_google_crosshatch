@@ -46,7 +46,7 @@ TARGET_INCLUDE_GAPPS := true
 PRODUCT_PRODUCT_PROPERTIES += \
   ro.fluid.maintainer=Olly \
   ro.fluid.cpu=SDM845 \
-  ro.product.system.model=crosshatch
+  ro.product.system.model=Pixel 3 XL
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
     PRODUCT_NAME="crosshatch" \
